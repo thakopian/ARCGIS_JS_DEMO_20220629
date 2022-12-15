@@ -1,6 +1,6 @@
 # ArcGISjs-Web-Map-V1.1
 ArcGIS web API with JS for front end display of map layers data
-
+* For additional information see this deck: https://github.com/thakopian/ARCGIS_JS_DEMO_20220629/blob/main/Deck/
 
 ## Description
 This sample demonstrates the following use cases:
