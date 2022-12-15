@@ -10,7 +10,11 @@ This sample demonstrates the following use cases:
 
 
 ## Developer Tools
-![thumbnail](/help/preview1.png) 
+![thumbnail](/help/previewE4.png)
+
+* Cloud-based software to create and share interactive web maps
+* ArcGIS Online gives you the ability to make maps and apps to share your insights through web apps
+
 
 
 # Web App Setup
@@ -24,15 +28,20 @@ This sample demonstrates the following use cases:
 
 
 ## Base Layer
-![thumbnail](/help/preview1.png) 
+![thumbnail](/help/previewE2.png) 
+Custom Location in your code - example, center: [-118.805, 34.027], // Longitude, latitude
 
 
 ## Additional Layer
-![thumbnail2](/help/preview3.png) 
+![thumbnail2](/help/previewE1.png) 
+A basemap layer provides visual context for a map or scene - add module via:
+
+   require(["esri/config","esri/Map", "esri/widgets/BasemapToggle", "esri/widgets/BasemapGallery",]
 
 
 ## Additional Layer
-![thumbnail2](/help/preview3.png) 
+![thumbnail2](/help/previewE3.png) 
+Tool palette to change view and information graphically
 
 ## Additional Information:
 
